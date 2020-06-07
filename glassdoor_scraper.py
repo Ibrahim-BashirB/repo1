@@ -3,7 +3,7 @@
 """
 Created on Sat May 30 14:30:28 2020
 
-@author: ibrahimbashir
+@author: arapfaik
 """
 
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
